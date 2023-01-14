@@ -1,5 +1,7 @@
 # How to download Apple Music for Windows App via Microsoft Store
-## Requierements
+## Download with Powershell command
+Run Powershell as Administrator. Type this code and press enter "winget install --id 9PFHDD62MXS1". Agree with install step.
+## Requirements
 Check Microsoft Store Language. You might need to check your system locale has set as
 
 ![screenshot 2022-11-28 162751-1](https://github.com/Udtshi/Apple-Music-Preview/blob/main/screenshot%202022-11-28%20162751-1.png)
