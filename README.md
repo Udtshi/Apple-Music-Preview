@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="Z5QByA1wGIBD7vvkXXKmQUEMYefFpKqE1TleMY5m3vU" />
 # Download Apple Music for Windows App via Microsoft Store
 ## Requirements
 Check Microsoft Store Language. You might need to check your system locale has been set as the US on the system Settings.
