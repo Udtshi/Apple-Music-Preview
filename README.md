@@ -1,6 +1,6 @@
 # Download Apple Music for Windows App via Microsoft Store
 ## Requirements
-Check Microsoft Store Language. You might need to check your system locale has been set as the US.
+Check Microsoft Store Language. You might need to check your system locale has been set as the US on the system Settings.
 
 ![screenshot 2022-11-28 162751-1](https://github.com/Udtshi/Apple-Music-Preview/blob/main/screenshot%202022-11-28%20162751-1.png)
 
